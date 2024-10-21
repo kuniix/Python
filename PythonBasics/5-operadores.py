@@ -31,3 +31,7 @@ num1 /= num2
 num1 *= num2
 num1 **= num2
 num1 %= num2
+
+#logicos
+#or que é OU
+#AND que é e tambe
